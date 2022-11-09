@@ -6,7 +6,7 @@ I was born and is currently living in Indonesia.
 I like to spend my time playing codewars, solving CTF's, sometimes i also make hacking tools with python, my favorite programming language
 
 ## Availability
-I will be busy **most** of the time, but you can contact me at around 8pm or above (UTC +07.00)
+I will be busy **most** of the time, but you can contact me at around 8pm or above (UTC +07:00)
 
 you can reach me through my email, **seven.subnet@gmail.com**
 or message me on discord, **Subnet7#3225**
