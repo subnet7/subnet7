@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 # Please wait for the next update of this Readme, it has been a few years since I logged into github (sigh) 😥
+i plan to make a portfolio website soon
 
 ## Short About me
 My name is Tyaga, I am a highschool student who enjoys tech.
