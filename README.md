@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# Please wait for the next update of this Readme, it has been a few years since I logged into github (sigh) 😥
+
 ## Short About me
 My name is Tyaga, I am a highschool student who enjoys tech.
 I was born and is currently living in Indonesia.
