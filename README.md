@@ -1,28 +1,26 @@
-### Hi there 👋
+# Hi there 👋  
 
-# Please wait for the next update of this Readme, it has been a few years since I logged into github (sigh) 😥
-i plan to make a portfolio website soon
+Thank you for visiting my GitHub profile. I am currently updating this space and planning to create a personal portfolio website soon.  
 
-## Short About me
-My name is Tyaga, I am a highschool student who enjoys tech.
-I was born and is currently living in Indonesia.
-I like to spend my time playing codewars, solving CTF's, sometimes i also make hacking tools with python, my favorite programming language
+## About Me  
+My name is **Tyaga**, and I am a medical student from Indonesia with a strong interest in technology.  
+My background includes programming in Python, solving CTF challenges, and experimenting with web development frameworks such as Django.  
+Although my primary focus is now on medicine, I continue to explore programming and build projects in my spare time.  
 
-## Availability
-I will be busy **most** of the time, but you can contact me at around 8pm or above (UTC +07:00)
+## Availability  
+Due to my academic schedule, I may not always be immediately available.  
+I usually respond to messages in the evening (UTC +07:00).  
 
-you can reach me through my email, **seven.subnet@gmail.com**
-or message me on discord, **Subnet7#3225**
+📧 Email: **seven.subnet@gmail.com**  
+💬 Discord: **Subnet7#3225**  
 
-## Little facts about me
-- I can play guitar
-- Weeb, a _crazy_ one you can say
-- Waifu? not sure abt that
-- Naruto is kinda mid
-- Currently working on a website using django, need some help.
-- Been trying to finish the [freecodecamp](www.freecodecamp.com) scientific computing with python curriculum, still cant finsih the last 2 projects 💀
-- idk what else :/
+## Interests & Facts  
+- 🎸 Play guitar as a hobby.  
+- 💻 Enjoy problem-solving and coding challenges.  
+- 🌱 Learning Django and expanding my programming skills.  
+- 🚫 No longer participating in bug bounty programs, focusing on medical school.  
 
+---
 
 
 <!--
